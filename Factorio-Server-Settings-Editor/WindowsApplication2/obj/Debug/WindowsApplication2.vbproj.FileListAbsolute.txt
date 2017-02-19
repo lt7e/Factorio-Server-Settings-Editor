@@ -1,0 +1,10 @@
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\bin\Debug\Factorio Server json editor.exe.config
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\bin\Debug\Factorio Server json editor.exe
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\bin\Debug\Factorio Server json editor.pdb
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\bin\Debug\Factorio Server json editor.xml
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\obj\Debug\FacJsonEditor.Factorio_Json_Editor.resources
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\obj\Debug\FacJsonEditor.Resources.resources
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\obj\Debug\Factorio Server json editor.exe
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\obj\Debug\Factorio Server json editor.xml
+C:\Users\lt7e\Source\Repos\Factorio-Server-Settings-Editor\WindowsApplication2\obj\Debug\Factorio Server json editor.pdb
